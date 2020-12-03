@@ -1,33 +1,6 @@
 :spring_boot_version: 2.3.5.RELEASE
-:spring-boot: https://github.com/edaaa/Car/tree/master
-:project_id: carType
-
-
-== What You Need
-
-:java_version: 11
-
-----
-./mvnw spring-boot:run
-----
-
-The actuator exposes the following:
-
-* http://localhost:8080/car/sedan
-* http://localhost:8080/car/cabrio
-* http://localhost:8080/car/hatchback
-
-
-
-== The Postman
-
-https://www.postman.com/collections/a844c32273435729e64e
-
-== Output Json 
-
-:spring_boot_version: 2.3.5.RELEASE
-:spring-boot: https://github.com/edaaa/Car/tree/master
-:project_id: carType
+:spring-boot: https://github.com/edaaa/vehicle
+:project_id: vehicle
 
 
 == What You Need
